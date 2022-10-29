@@ -1,4 +1,4 @@
-// Backjoon Q.2083
+// Baekjoon Q.2083
 // 럭비 클럽
 #include <iostream>
 

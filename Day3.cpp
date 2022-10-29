@@ -1,4 +1,4 @@
-// Backjoon Q.1008
+// Baekjoon Q.1008
 // A/B
 #include <iostream>
 
