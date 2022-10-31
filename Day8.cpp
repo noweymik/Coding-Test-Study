@@ -1,7 +1,6 @@
 // Baekjoon Q.25304
 // 영수증
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int main() {
