@@ -1,4 +1,4 @@
-# BaekJoon in c++
+# Baekjoon in c++
 ### 1일 1문제 도전~~
 
 ### 2022
