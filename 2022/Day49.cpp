@@ -1,5 +1,5 @@
-// Baekjoon Q.11650
-// 좌표 정렬하기
+// Baekjoon Q.2750
+// 수 정렬하기
 #include <iostream>
 #include <vector>
 #include <algorithm>
