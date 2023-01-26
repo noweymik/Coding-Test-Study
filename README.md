@@ -2,6 +2,7 @@
 
 ### Questions that I solved in 2023
 ##### 💛DAY1 : Q.10178 할로윈의 사탕
+##### 💛DAY2 : Q.25628 햄버거 만들기
 
 ### Questions that I solved in 2022
 ##### 💛DAY1 : Q.1000 A+B 
