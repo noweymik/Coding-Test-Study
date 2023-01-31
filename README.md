@@ -7,7 +7,7 @@
 ##### 💛DAY4 : Q.2501 약수 구하기
 ##### 💛DAY5 : Q.2741 N 찍기
 ##### 💛DAY6 : Q.2742 기찍 N
-##### 💛DAY7 : Q.2752 
+##### 💛DAY7 : Q.2752 세수정렬
 
 ### Questions that I solved in 2022
 ##### 💛DAY1 : Q.1000 A+B 
