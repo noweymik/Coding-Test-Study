@@ -8,6 +8,7 @@
 ##### 💛DAY5 : Q.2741 N 찍기
 ##### 💛DAY6 : Q.2742 기찍 N
 ##### 💛DAY7 : Q.2752 세수정렬
+##### 💛DAY8 : Q.2693 N번째 큰 수
 
 ### Questions that I solved in 2022
 ##### 💛DAY1 : Q.1000 A+B 
