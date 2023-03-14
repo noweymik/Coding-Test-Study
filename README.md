@@ -1,6 +1,6 @@
 # Baekjoon in c++
 
-### Questions that I solved in 2023
+### Questions that I solved in 2023.
 ##### 💛Q1 : Q.10178 할로윈의 사탕
 ##### 💛Q2 : Q.25628 햄버거 만들기
 ##### 💛Q3 : Q.5691 평균 중앙값 문제
@@ -20,7 +20,7 @@
 
 
 
-### Questions that I solved in 2022
+### Questions that I solved in 2022.
 ##### 💛DAY1 : Q.1000 A+B 
 ##### 💛DAY2 : Q.1001 A-B 
 ##### 💛DAY3 : Q.1008 A/B
