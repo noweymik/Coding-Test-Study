@@ -1,6 +1,6 @@
 # 백준 15649번  
 # N과 M (1)
-# 배운 점 : permutations
+# 배운 점 : itertools
 
 from itertools import *
 
