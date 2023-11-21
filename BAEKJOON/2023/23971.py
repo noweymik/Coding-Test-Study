@@ -6,7 +6,6 @@ input = sys.stdin.readline
 
 H, W, N, M = map(int, input().split())
 
-seat = [[0,0]]
 xlist = []
 ylist = []
 
@@ -18,7 +17,6 @@ while( i < W+1 ):
         x = xlist[-1] + (M+1)
     i += (M+1)
     xlist.append(x)
-    
 j = 1
 while( j < H+1 ):
     if(j == 1):
