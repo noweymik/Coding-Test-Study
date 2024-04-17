@@ -6,14 +6,10 @@ def solution(record):
         line = r.split(" ")
         command = line[0]
         id = line[1]
-        
-        # command 가 Enter라면 userId[id] 추가 또는 업데이트
-        if command == 'Enter':            
+
+        # Enter or Change면 userId의 key의 value 추가 또는 업데이트
+        if command == 'Enter' or command == 'Change':            
             userId[id] = line[2]
-        
-        elif command == 'Change':
-            if id in userId:
-                userId[id] = line[2]
         
     for r in record:
         line = r.split(" ")
